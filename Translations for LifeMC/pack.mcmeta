@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 32,
+    "description": "§aOfficial translations for LifeMC modpack.",
+    "supported_formats": {
+      "min_inclusive": 8,
+      "max_inclusive": 32
+    }    
+  }
+}
